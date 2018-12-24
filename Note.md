@@ -4,7 +4,7 @@ Step Step in Termux
 
 pkg update && pkg upgrade
 
-pkg install git python2
+pkg install git python
 
 git clone https://github.com/boychongzen18/BomMail
 
