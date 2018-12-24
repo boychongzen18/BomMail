@@ -4,7 +4,7 @@ Step Step in Termux
 
 pkg update && pkg upgrade
 
-pkg install git python
+pkg install git python 
 
 git clone https://github.com/boychongzen18/BomMail
 
@@ -17,6 +17,8 @@ ls
 chmod +x BomMail.py
 
 python BomMail.py
+
+
 
 
 Regard Boychonzen aka Xroot
