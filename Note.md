@@ -1,8 +1,4 @@
-# BomMaiL
-BomMaiL is a Python tool that integrate with Gmail and Yahoo server to Flood Victim Email Address.
-
-For Gmail Server you Have to Enable "less Secure app" From here:->
-https://myaccount.google.com/lesssecureapps
+Cara pakai BomMail di Termux
 
 Step Step in Termux 
 
@@ -20,7 +16,7 @@ ls
 
 chmod +x BomMail.py
 
-python2 BomMail.py
+python BomMail.py
 
 
 Regard Boychonzen aka Xroot
