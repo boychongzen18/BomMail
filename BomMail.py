@@ -21,9 +21,6 @@ print """
   
 Pentesting @ Boychongzen aka Xroot
 
-https://github.com/boychongzen18
-https://www.hackingforlive.cf
-https://web.facebook.com/xroot.xroot.7  
 """
 def BomEmail():
     if os.name == 'nt':
