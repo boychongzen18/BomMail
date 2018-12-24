@@ -7,6 +7,7 @@ https://myaccount.google.com/lesssecureapps
 Step Step in Termux 
 pkg update && pkg upgrade
 pkg install git python2
+
 git clone https://github.com/boychongzen18/BomMail.git
 
 eksekusi :
