@@ -15,8 +15,11 @@ git clone https://github.com/boychongzen18/BomMail
 eksekusi :
 
 cd BomMail
+
 ls
+
 chmod +x BomMail.py
+
 python2 BomMail.py
 
 
